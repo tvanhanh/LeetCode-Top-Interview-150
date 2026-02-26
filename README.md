@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@
 | [0001-two-sum](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0290-word-pattern) |
@@ -63,6 +65,7 @@
 | [0013-roman-to-integer](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tvanhanh/LeetCode-Top-Interview-150/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
